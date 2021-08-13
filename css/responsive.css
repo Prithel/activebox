@@ -1,0 +1,352 @@
+
+
+
+
+
+
+@media(min-width: 320px) and (max-width: 480px){
+
+
+.header .top-header .nav-item a {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    color: #c9cad1;
+    padding: 6px 15px;
+}
+.header .banner h1 {
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 27px;
+	padding-top: 51px;
+}
+.header .banner p {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-size: 15px;
+    line-height: 23px;
+    font-weight: 200;
+    padding: 22px 0px;
+}
+.header .banner .btn-light {
+    color: #000;
+    background-color: #e84545;
+    text-transform: uppercase;
+    border: none;
+    font-size: 16px;
+    padding: 10px 18px;
+    color: #fff;
+}
+.feature .card img {
+    width: 15%;
+    text-align: center;
+    margin: 0px 150px;
+    padding: 30px 0px;
+}
+.feature .light img {
+    width: 12%;
+    text-align: center;
+    margin: 0px 153px;
+    padding: 20px 0px;
+}
+
+.wrapper {
+    width: 100%;
+    padding: 0px 0px;
+}
+
+.profile .card {
+    border-color: transparent;
+    padding-top: 67px;
+    width: 100%;
+}
+.clients .owl-theme .item .pera h2 {
+    font-family: 'Cardo', serif;
+    font-size: 24px;
+    color: #fff;
+    padding: 35px 40px 0px;
+}
+
+.clients .owl-theme .item .pera p {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    padding: 7px 40px;
+    font-size: 14px;
+}
+.download {
+    width: 100%;
+    text-align: center;
+    padding: 80px 0px;
+}
+.download h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 29px;
+    padding-bottom: 15px;
+}
+.download p {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+.download .btn-primary {
+    font-family: 'Raleway', sans-serif;
+    background-color: #e84545;
+    padding: 10px 30px;
+    border: 1px solid;
+    text-transform: uppercase;
+}
+.footer .prothom {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.footer .ditiyo {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.footer .main-footer p {
+    font-size: 14px;
+    line-height: 30px;
+}
+
+
+  }      
+@media(min-width: 481px) and (max-width: 767px){
+.header .top-header .nav-item a {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    color: #c9cad1;
+    padding: 10px 15px;
+}
+.header .banner h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 34px;
+    padding-top: 50px;
+}
+
+.header .banner p {
+    font-family: 'Raleway', sans-serif;
+    color: #FFF;
+    font-size: 19px;
+    line-height: 45px;
+    font-weight: 200;
+    padding: 34px 0px;
+}
+.feature .card img {
+    width: 15%;
+    text-align: center;
+    margin: 0px 190px;
+    padding: 30px 0px;
+}
+.feature .light img {
+    width: 12%;
+    text-align: center;
+    margin: 0px 195px;
+    padding: 20px 0px;
+}
+.clients .owl-theme .item .pera h2 {
+    font-family: 'Cardo', serif;
+    font-size: 30px;
+    color: #fff;
+    padding: 35px 40px 0px;
+}
+
+.download h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 38px;
+    padding-bottom: 15px;
+}
+.footer .ditiyo {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0px 0px;
+}
+.footer .tritiyo {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    text-align: center;
+    padding: 33px 0px 0px;
+}
+.footer .tritiyo p {
+    font-size: 15px;
+    font-weight: 300;
+}
+.footer .main-footer p {
+    font-size: 15px;
+    line-height: 30px;
+}
+
+
+}
+@media(min-width: 768px) and (max-width: 1024px){
+.header .top-header .nav-item a {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    color: #c9cad1;
+    padding: 10px 0px;
+}
+.header .banner h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 52px;
+    padding-top: 50px;
+}
+.header .banner p {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-size: 30px;
+    line-height: 45px;
+    font-weight: 200;
+    padding: 24px 0px;
+}
+.feature .card img {
+    width: 15%;
+    text-align: center;
+    margin: 0px 92px;
+    padding: 30px 0px;
+}
+.feature .light img {
+    width: 12%;
+    text-align: center;
+    margin: 0px 93px;
+    padding: 27px 0px;
+}
+.feature .card .card-text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+}
+
+
+.feature .card .card-title {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 16px;
+}
+.item-hover h6 {
+    font-size: 15px;
+    color: #fff;
+    display: inline-block;
+    position: absolute;
+    left: 24%;
+    top: 26%;
+    font-size: 14px;
+}
+.item-hover p {
+    font-size: 13px;
+    color: #fff;
+    display: inline-block;
+    position: absolute;
+    left: 17%;
+    top: 45%;
+}
+.profile .card-title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.profile .card-title2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    color: #e84545;
+    font-weight: 400;
+    margin-bottom: 17px;
+}
+.profile .card-text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+}
+.clients .owl-theme .item .pera h2 {
+    font-family: 'Cardo', serif;
+    font-size: 18px;
+    color: #fff;
+    padding: 20px 40px 0px;
+}
+.clients .owl-theme .item .pera p {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    padding: 7px 40px;
+    font-size: 14px;
+}
+.download {
+    width: 100%;
+    text-align: center;
+    padding: 51px 0px;
+}
+
+
+.footer .tritiyo p {
+    font-size: 15px;
+    font-weight: 300;
+}
+
+
+}
+@media(min-width: 1024px) and (max-width: 1366px){
+.header .top-header .nav-item a {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    color: #c9cad1;
+    padding: 10px 8px;
+}
+
+.header .banner p {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-size: 15px;
+    line-height: 40px;
+    font-weight: 200;
+    padding: 24px 0px;
+}
+.feature .card img {
+    width: 15%;
+    text-align: center;
+    margin: 0px 124px;
+    padding: 30px 0px;
+}
+.feature .light img {
+    width: 12%;
+    text-align: center;
+    margin: 0px 128px;
+    padding: 21px 0px;
+}
+.item-hover p {
+    font-size: 13px;
+    color: #fff;
+    display: inline-block;
+    position: absolute;
+    left: 19%;
+    top: 40%;
+}
+.download h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 60px;
+    padding-bottom: 15px;
+}
+.download p {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+
+
+}
